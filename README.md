@@ -1,4 +1,3 @@
-
 # Professional Authentication System
 
 A modern, responsive sign-up and login system with best practices in UI/UX and security.
