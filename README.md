@@ -22,10 +22,9 @@ A modern, responsive sign-up and login system with best practices in UI/UX and s
 
 ## Demo
 
-[file:///C:/Users/sachin%20kumar%20singh/Downloads/signup%20form.html](#) (Add your demo link here)
+[/Users/sachin%20kumar%20singh/Downloads/signup%20form.html](#) (Add your demo link here)
 
-![Screenshot](![Uploading Screenshot 2025-06-04 140447.png…]()
-.png) (Add your screenshot path here)
+![Screenshot](![Uploading Screenshot 2025-06-04 140447.png…] (Add your screenshot path here)
 
 ## Installation
 
